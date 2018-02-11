@@ -3,6 +3,9 @@
 This repo contains 2 solutions that were set up to reporoduce the issue described here:
 https://stackoverflow.com/questions/48709958/nunit-framework-not-found-running-nunit-against-net-standard-1-4-xamarin-projec#48709958
 
+And here:
+https://developercommunity.visualstudio.com/content/problem/196706/running-nunit-tests-against-net-standard-assembly.html
+
 TestSolution.TestProject was set up in Visual Studio for Windows as a .NET Core class library.
 TestSolution2 was set up in Visual Studio for Windows as a .NET Core Unit Test library.
 
